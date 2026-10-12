@@ -1,6 +1,6 @@
 schema = 1
 id = "ask-agent"
 name = "Ask an agent"
-version = "0.1.0"
+version = "0.2.0"
 description = "Explain selected terminal warnings and errors in an agent split."
 window = "window.luau"
